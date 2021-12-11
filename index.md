@@ -1,7 +1,5 @@
 ![Logo](res/Logo.png)
 
-# 域外創音 / Ikigai Souon
-
 I write codes. [ [Github](https://github.com/Rinkaa) ]
 
 I draw art. [ [DeviantArt](https://www.deviantart.com/crueltyex) \| [Pixiv](https://www.pixiv.net/users/11776702) ]
